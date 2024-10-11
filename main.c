@@ -7,11 +7,12 @@
 void menuIniciarSessio () {
 }
 
+
 void menuRegistrar () {
 }
 
 int main () {
-    char opt[MAX_STRING];
+    char opt[MAX_STRING], h;
 
     printf("Benvingut a la aplicacio de l'empresa StellarSalleX\n");
 
